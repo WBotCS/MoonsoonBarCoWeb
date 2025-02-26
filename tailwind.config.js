@@ -12,7 +12,7 @@ export default {
         accent: '#F6AD55',
       },
       fontFamily: {
-        sans: ['Inter', 'sans-serif'],
+        sans: ['Futura', 'sans-serif'],
       },
     },
   },

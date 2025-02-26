@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Gemola';
+  src: url('/fonts/Gemola.woff2') format('woff2'),
+       url('/fonts/Gemola.woff') format('woff'),
+       url('/fonts/Gemola.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
