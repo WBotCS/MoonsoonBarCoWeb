@@ -6,13 +6,13 @@ const ShopPage = () => {
       name: 'Gift Card',
       price: '$50-$500',
       description: 'The perfect gift for cocktail enthusiasts',
-      image: '/4.jpg'
+      image: '/giftcard.webp'
     },
     {
       name: 'Moonsoon T-Shirt',
       price: '$28',
       description: 'Premium cotton blend with vintage design',
-      image: '/2.jpg'
+      image: '/tshirt.jpg'
     },
     {
       name: 'Signature Glassware',
