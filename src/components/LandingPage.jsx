@@ -43,7 +43,7 @@ const LandingPage = () => {
       {/* Logo and Title */}
       <div className="absolute inset-0 flex flex-col items-center justify-center text-white z-10">
         <img src={logo} alt="Moonsoon Bar & Co. Logo" className="w-40 h-40 mb-4 invert" />
-        <h1 className="text-2xl font-bold tracking-wider text-center">Moonsoon Bar & Co.</h1>
+        <h1 className="text-2xl font-light tracking-wider text-center">Moonsoon Bar & Co.</h1>
       </div>
     </div>
     <LocationSection />
