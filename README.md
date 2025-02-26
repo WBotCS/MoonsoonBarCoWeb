@@ -40,7 +40,7 @@ This website demonstrates modern web development practices and features:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/MoonsoonBarCoWeb.git
+git clone https://github.com/WBotCS/MoonsoonBarCoWeb.git
 ```
 
 2. Install dependencies
